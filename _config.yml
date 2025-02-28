@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Brush Up'
-subtitle: '萑澈刷题本'
-description: '萑澈刷题本'
-keywords: C/C++ Algo Rust
+title: '萑澈错题本'
+subtitle: 'A Brush Up for Churnie HXCN'
+description: 'A Brush Up for Churnie HXCN'
+keywords: C/C++ Algo Rust OS Python Linux DataStructure Algorithm Database
 author: 'Churnie HXCN'
 language: zh
 timezone: 'Asia/Shanghai'
